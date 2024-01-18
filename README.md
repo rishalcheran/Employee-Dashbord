@@ -1,3 +1,4 @@
+BACKEND ONLY
 1) Spring Boot project using Spring Initializr and then we will import that project into IntelliJ IDEA
 2) configure the MySQL database in the Spring Boot application so that our Spring Boot application will be able to connect to the MySQL database to store and retrieve employee data.
 3) JPA entity and we will map it with the employees table in a database.
